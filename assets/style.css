@@ -249,3 +249,126 @@ section#about {
     color: #fff;
   }
   
+  section .container{
+    padding: 50px;
+    background-color: #0a0a0a;
+    font-size: medium;
+   }
+    
+   .education {
+    background-color: #181717;
+    padding: 0px;
+    font-size: medium;
+ 
+   }
+   
+
+
+   /*education style*/
+    .row{
+    border: 10px solid black;
+    padding: 40px 40px;
+    background-color:rgb(55, 31, 55);
+    } 
+
+    .row > h4{
+        font-size: 20px;
+    }
+    
+    .row > h5{
+        font-size:20px;
+        color:whitesmoke;
+    }
+
+    .row > span{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: large;
+        
+    }
+
+    .row > h6{
+    font-size: medium;
+    }
+
+
+   section .uoe{
+    border: 10px solid black;
+    padding: 50px;
+    background-color:rgb(55, 31, 55);
+   }
+
+   .uoe > h4{
+    font-size: 20px;
+   }
+
+    .uoe > h5{
+        font-size: 20px;
+        color:whitesmoke;
+    }
+
+    .uoe > span{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: large;
+    }
+
+
+   .uoe > h6{
+      font-size: 15px;;
+      font-family: sans-serif;
+       
+   }
+     
+   section .nai{
+    border: 10px solid black;
+    padding: 50px;
+    background-color:rgb(55, 31, 55);
+   }
+
+   .nai > h4{
+    font-size: 20px;
+    font-family: sans-serif;
+   }
+
+   .nai > h5{
+    font-size:20px;
+    color: whitesmoke;
+   }
+
+   .nai > span{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+   }
+
+   .nai > h6{
+    font-size:15px;
+    font-family:sans-serif;
+   }
+
+   section .sss{
+    border: 10px solid black;
+    padding: 50px;
+    background-color:rgb(55, 31, 55);
+   }
+    
+   .sss > h4{
+    font-size: 20px;
+    font-family: sans-serif;
+   }
+
+   .sss > h5{
+    font-size:20px;
+    color: whitesmoke;
+   }
+
+   .sss > span{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+   }
+
+   .sss > h6{
+    font-size:15px;
+    font-family:sans-serif;
+   }
+
+
+
