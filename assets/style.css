@@ -170,3 +170,82 @@ body {
     
     width: 100%;
 }
+
+/* About Section Styles */
+section#about {
+    background-color:#181717;
+    color: #fff;
+    padding:50px;
+  }
+  
+
+  .about-me {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+  
+  .section-title h2 {
+    color: #484168;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 36px;
+    font-weight: bold;
+  }
+  
+  .about-me p {
+    font-size: 17px;
+    line-height: 1.5;
+    margin: 0 0 20px;
+  }
+  
+  .about-me p:first-of-type::first-letter {
+    font-size: 25px;
+    font-weight: bold;
+    color:white;
+  }
+  
+
+  
+   /*sections general*/
+  
+  section.section-show {
+    top: 70px;
+    bottom: auto;
+    opacity: 1;
+    padding-bottom: 0px;
+  }
+  
+
+
+  .section-title h2 {
+    font-size: 15px;
+    font-weight: 500;
+    padding: 0;
+    line-height: 1px;
+    margin: 0 0 20px 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #dee2e6;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .section-title h2:after{
+    content: none;
+    width: 120px;
+    height: 1px;
+    display: inline-block;
+    background: #dee2e6;
+    margin: 5px 10px;
+  }
+  
+  .section-title p {
+    margin: 0;
+    margin: -15px 0 15px 0;
+    font-size: 36px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: "Poppins", sans-serif;
+    color: #fff;
+  }
+  
