@@ -370,5 +370,48 @@ section#about {
     font-family:sans-serif;
    }
 
+   section .low{ 
+    padding: 50px;
+    background-color: rgb(55, 31, 55);
+    border: 10px solid black ;
+}
 
+.low > h4{
+    font-size: large;
+    font-family: sans-serif;
+}
+
+.low > h5 {
+    font-size:large;
+    color: whitesmoke;
+}
+
+ .low > span{
+font-family: 'Times New Roman', Times, serif;
+font-size: large;
+}
+
+ section .comp{
+    border: 10px solid black;
+    padding: 50px ;
+    background-color: rgb(55, 31, 55);
+    margin: 0px;
+}
+
+
+.comp > h4{
+    font-size: large;
+    font-family: sans-serif;
+}
+
+
+.comp > h5{
+    font-size:large;
+    color: whitesmoke;
+}
+
+.comp > span{
+    font-family: 'Times New Roman', Times, serif;
+     font-size: large;
+}
 
